@@ -1,0 +1,7 @@
+[46996:46996:0208/223154.419045:WARNING:chrome_main_delegate.cc(617)] This is Chrome version 110.0.5481.77 (not a warning)
+[46996:46996:0208/223154.592032:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[47040:47040:0208/223154.629011:WARNING:sandbox_linux.cc(393)] InitializeSandbox() called with multiple threads in process gpu-process.
+[46996:46996:0208/223155.059078:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[47040:47040:0208/223206.766709:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[47040:47040:0208/223210.769260:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[47040:47040:0208/223210.775864:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
